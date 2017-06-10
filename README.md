@@ -1,2 +1,2 @@
-# ansible-java-pet-projects
-Ansible role for deploying your side projects in java within a VPS like Digital Ocean
+# ansible-vps-java-app-deploy
+Ansible role for deploying your side projects in java to a VPS like Digital Ocean
